@@ -8,4 +8,4 @@
 shreyashnawghare/shreyashnawghare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif"
+<h2><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
