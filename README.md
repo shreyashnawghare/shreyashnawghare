@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1>📖 About me</h1>
 
-* 💻 A passionate Full stack developer [MERN]” with hands-on experience in designing and developing web applications using a range of technologies and programming languages. 
+* 💻 A passionate Full stack developer "[MERN]” Who wants to Explore new technologies and develop web applications. 
 
 
 
