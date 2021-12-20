@@ -8,11 +8,11 @@
 shreyashnawghare/shreyashnawghare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+
 
 <h1>
-  # Hi, I'm <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100" height="100">  Sagar
-
+  # Hi, I'm <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100" height="100">  Shreyash
+<img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">
 </h1>
 <p align="left">
 <img src="LOGO 1.png" alt="nametag" >
