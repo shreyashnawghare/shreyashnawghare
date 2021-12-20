@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1>
-  # Hi, I'm <img alt="hi" src="wave.gif" width="30px" align="left"/>  Shreyash
+  # Hi, I'm <img alt="hi" src="wave.gif" width="30px"/>  Shreyash
 <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">
 </h1>
 <p align="left">
