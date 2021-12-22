@@ -47,11 +47,11 @@ You can click the Preview link to take a look at your changes.
 <p>
 <img align="right" width="180" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=shrey56
+<img src="https://github-readme-stats.vercel.app/api?username=shreyashnawghare
 &show_icons=true&theme=radical" />
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrey56
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashnawghare
 &theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey56
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashnawghare
 &layout=compact&theme=radical&langs_count=6" />
