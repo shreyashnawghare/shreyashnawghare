@@ -39,15 +39,12 @@ You can click the Preview link to take a look at your changes.
 <!--     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=shreyashnawghare&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
     </p> -->
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=shreyashnawghare&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
-    </p>
-    <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashnawghare&theme=dark" alt="Streak Stats" />
-    </p>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashnawghare&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
-    </p>
+   
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashnawghare&show_icons=true&locale=en&layout=compact" alt="shreyashnawghare" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashnawghare&show_icons=true&locale=en" alt="shreyashnawghare" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashnawghare&" alt="shreyashnawghare" /></p>
 <!--     <p align="center">
         <img src="https://activity-graph.herokuapp.com/graph?username=shreyashnawghare&theme=xcode&bg_color=151515" alt="Activity Graph" />
     </p>
