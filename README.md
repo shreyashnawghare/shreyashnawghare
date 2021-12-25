@@ -8,7 +8,7 @@
 shreyashnawghare/shreyashnawghare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyashnawghare" alt="shreyashnawghare" /></a> </p>
 
 <h1>
   # Hi, I'm <img alt="hi" src="wave.gif" width="30px"/>  Shreyash
