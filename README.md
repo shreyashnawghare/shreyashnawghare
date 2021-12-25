@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://github-profile-trophy.vercel.app/?username=shreyashnawghare&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?usernameshreyashnawghare&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shreyashnawghare&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
     </p>
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashnawghare&theme=dark" alt="Streak Stats" />
