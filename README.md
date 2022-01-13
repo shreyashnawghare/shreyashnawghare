@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
   # Hi, I'm <img alt="hi" src="wave.gif" width="30px"/>  Shreyash
 <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">
 </h1> -->
-<p align="left">
+<!-- <p align="left">
 <img src="LOGO 1.png" alt="nametag" >
-</p>
+</p> -->
 <br />
 
 <h1>📖 About me</h1>
