@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 <p align="center">    <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="materialize" width="400" height="400"/> 
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyashnawghare" alt="shreyashnawghare" /></a> </p>
+
 
 <!-- <h1>
   # Hi, I'm <img alt="hi" src="wave.gif" width="30px"/>  Shreyash
@@ -43,9 +43,9 @@ You can click the Preview link to take a look at your changes.
     <summary>My GitHub stats</summary>
     <br />
 <!--     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=shreyashnawghare&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
+        <img src="https://github-profile-trophy.vercel.app/?username=shreyashnawghare&theme=darkhub&margin-w=15" alt="Trophies GitHub"/>
     </p> -->
-   
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyashnawghare" alt="shreyashnawghare" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashnawghare&show_icons=true&locale=en&layout=compact" alt="shreyashnawghare" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashnawghare&show_icons=true&locale=en" alt="shreyashnawghare" /></p>
