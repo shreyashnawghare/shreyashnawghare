@@ -9,7 +9,7 @@ shreyashnawghare/shreyashnawghare is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">
-  # Hi, I'm   Shreyash
+   Hi, I'm   Shreyash
 <!-- <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> -->
 </h1>
 <p align="center">    <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="materialize" width="400" height="400"/> 
