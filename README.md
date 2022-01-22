@@ -27,11 +27,11 @@ You can click the Preview link to take a look at your changes.
 
 <h1>📖 About me</h1>
 
-* 💻 A passionate Full stack developer "[MERN]” Who wants to Explore new technologies and develop web applications. 
+ 💻 A passionate Full stack developer "[MERN]” Who wants to Explore new technologies and develop web applications. 
 
 
 
-* 🎓 I am a graduate from Priyadarshini college of engineering, Nagpur Maharashtra in 2020
+ 🎓 I am a graduate from Priyadarshini college of engineering, Nagpur Maharashtra in 2020
 
 
 <br />
