@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
    Hi, I'm   Shreyash
 <!-- <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> -->
 </h1>
-<p align="center">    <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="materialize" width="400" height="400"/> 
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif"/>
+
 
 
 <!-- <h1>
