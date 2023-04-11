@@ -64,7 +64,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
- 
     <a href="https://t.me/shreyash_nawghare" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
     </a>
