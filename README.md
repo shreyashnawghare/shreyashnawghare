@@ -59,9 +59,7 @@ You can click the Preview link to take a look at your changes.
     <a href="" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" />
-    </a>
+   
 </p>
 
 <p align="center">
