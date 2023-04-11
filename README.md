@@ -64,7 +64,14 @@ You can click the Preview link to take a look at your changes.
     </a>
 </p>
 
-
+<p align="center">
+    <a href="https://t.me/shangkaul" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
+    </a>
+    <a href="rautsagar622@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ProtonMail Badge" />
+    </a>
+<p/>
 
 
 <h1>⚡ Things I code with</h1>
