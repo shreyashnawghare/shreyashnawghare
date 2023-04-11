@@ -53,24 +53,24 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     <i>Feel free to hit me up for discussing interesting ideas:</i>
     <br/><br/>
-    
+      <a href="https://www.instagram.com/shreyash_nawghare/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" />
+    </a>
     <a href="https://www.linkedin.com/in/shreyash-nawghare1/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <a href="shreyashnawghare@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ProtonMail Badge" />
-    </a>
+    
    
 </p>
 
 <p align="center">
-   <a href="https://www.instagram.com/shreyash_nawghare/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" />
-    </a>
+ 
     <a href="https://t.me/shreyash_nawghare" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
     </a>
-   
+   <a href="shreyashnawghare@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ProtonMail Badge" />
+    </a>
 <p/>
 
 <hr />
