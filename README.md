@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ProtonMail Badge" />
     </a>
 <p/>
-
+<br />
 <hr />
 <br />
 <h1 align="center">⚡ Things I code with</h1>
